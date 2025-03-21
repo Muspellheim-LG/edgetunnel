@@ -1,8 +1,8 @@
 
 import { connect } from 'cloudflare:sockets';
 
-let userID = 'a000862f-2c23-4e6b-8e58-6e1b6fea2b8a';
-let proxyIP = 'hk.cf.zhetengsha.eu.org';
+let userID = 'de1f2f22-ed8f-4552-a7a6-630baad94aad';
+let proxyIP = 'sg.cf.zhetengsha.eu.org';
 //let sub = '';
 let subConverter = atob('U1VCQVBJLkNNTGl1c3Nzcy5uZXQ=');
 let subConfig = atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvY29uZmlnL0FDTDRTU1JfT25saW5lX01pbmlfTXVsdGlNb2RlLmluaQ==');
