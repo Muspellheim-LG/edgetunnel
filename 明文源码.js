@@ -1,7 +1,7 @@
 
 import { connect } from 'cloudflare:sockets';
 
-let userID = '3b2ef903-a09d-406a-927b-347151205f7e';
+let userID = 'f903-a09d-406a-927b-347151205f7e';
 let proxyIP = 'www.visa.co.jp';
 //let sub = '';
 let subConverter = atob('U1VCQVBJLkNNTGl1c3Nzcy5uZXQ=');
