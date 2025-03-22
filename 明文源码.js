@@ -1,8 +1,8 @@
 
 import { connect } from 'cloudflare:sockets';
 
-let userID = '2849a0cb-be1f-418a-99b1-ca4a50c298de';
-let proxyIP = 'proxyip.hk.fxxk.dedyn.io';
+let userID = '319b2e6d-fd0c-47ca-85b3-ea5a8848a895';
+let proxyIP = 'proxyip.sg.fxxk.dedyn.io';
 //let sub = '';
 let subConverter = atob('U1VCQVBJLkNNTGl1c3Nzcy5uZXQ=');
 let subConfig = atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvY29uZmlnL0FDTDRTU1JfT25saW5lX01pbmlfTXVsdGlNb2RlLmluaQ==');
