@@ -1,8 +1,8 @@
 
 import { connect } from 'cloudflare:sockets';
 
-let userID = '24d917f3-42f3-4907-9d6a-1d6652859db8';
-let proxyIP = 'cloudflare.182682.xyz';
+let userID = '560aa743-16c8-4a42-9f57-8a1dd193fbfb';
+let proxyIP = 'icook.hk';
 //let sub = '';
 let subConverter = atob('U1VCQVBJLkNNTGl1c3Nzcy5uZXQ=');
 let subConfig = atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvY29uZmlnL0FDTDRTU1JfT25saW5lX01pbmlfTXVsdGlNb2RlLmluaQ==');
